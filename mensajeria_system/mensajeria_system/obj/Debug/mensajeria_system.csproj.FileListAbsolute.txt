@@ -1,0 +1,12 @@
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\bin\Debug\mensajeria_system.exe.config
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\bin\Debug\mensajeria_system.exe
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\bin\Debug\mensajeria_system.pdb
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\obj\Debug\mensajeria_system.csprojAssemblyReference.cache
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\obj\Debug\mensajeria_system.Properties.Resources.resources
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\obj\Debug\mensajeria_system.csproj.GenerateResource.cache
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\obj\Debug\mensajeria_system.exe
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\obj\Debug\mensajeria_system.pdb
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\obj\Debug\mensajeria_system.Registro_Usuario.resources
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\obj\Debug\mensajeria_system.login.resources
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\obj\Debug\mensajeria_system.confirmarAdmin.resources
+C:\Users\la_be\OneDrive\Escritorio\sistema mensajeria\mensajeria_system\mensajeria_system\obj\Debug\mensajeria_system.Principal.resources

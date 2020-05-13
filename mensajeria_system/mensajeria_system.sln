@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mensajeria_system", "mensajeria_system\mensajeria_system.csproj", "{B02887B6-E592-488C-BEDF-4DBC83D62BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02887B6-E592-488C-BEDF-4DBC83D62BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02887B6-E592-488C-BEDF-4DBC83D62BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02887B6-E592-488C-BEDF-4DBC83D62BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02887B6-E592-488C-BEDF-4DBC83D62BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D602C25C-B626-442C-8752-7F16D1CD3B42}
+	EndGlobalSection
+EndGlobal
